@@ -12,6 +12,7 @@ export default function Menu() {
     { name: "Usuários", href: "/users" },
     { name: "Login", href: "/login" },
     { name: "LoginSimples", href: "/loginsimples" },
+    { name: "Dashboard", href: "/dashboard" },
 
 
     
